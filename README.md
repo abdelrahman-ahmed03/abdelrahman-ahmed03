@@ -52,7 +52,17 @@ YOLOv8-based Computer Vision project for detecting workers, helmets, and safety 
 https://github.com/abdelrahman-ahmed03/YOLO-Worker-Safety-Detection
 
 ---
+---
 
+### 📩 Spam Detection NLP
+
+Natural Language Processing (NLP) project for classifying SMS messages as **Spam** or **Ham** using TF-IDF, Machine Learning, and Streamlit.
+
+🔗 Repository  
+https://github.com/abdelrahman-ahmed03/Spam-Detection-NLP
+
+---
+---
 ### 🏋️ GymPro Management System
 
 Desktop application for gym management developed using Python, Tkinter, and SQLite.
@@ -97,6 +107,8 @@ https://github.com/abdelrahman-ahmed03/GymPro-Management-System
 - NumPy
 - Matplotlib
 - YOLOv8
+- Natural Language Processing (NLP)
+- Text Classification
 
 ---
 
