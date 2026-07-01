@@ -16,28 +16,53 @@ Passionate about building intelligent AI solutions using Machine Learning, Compu
 <a href="mailto:badawy512x@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/abdelrahman-ahmed03">
-<img src="https://img.shields.io/github/followers/abdelrahman-ahmed03?style=for-the-badge"/>
-</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 🎓 B.Sc. in Computer Science
-- 🏫 Modern Academy for Engineering and Technology
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 👁️ Interested in Computer Vision and Deep Learning
-- 📊 Skilled in Data Analysis and Data Visualization
-- 💻 Building AI-powered applications using Python
-- 🌱 Always learning new technologies and improving my AI skills
-- 💼 Open to Internship and Junior AI Engineer opportunities
+- 🎓 B.Sc. in Computer Science — Modern Academy for Engineering and Technology
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
+- 📊 Interested in Data Analysis and AI-powered applications
+- 💻 Building intelligent software using Python and modern AI technologies
+- 🌱 Continuously learning and improving my technical skills
+- 💼 Seeking Internship and Junior AI/ML Engineer opportunities
 
 ---
 
-# 💻 Programming Languages
+# Featured Projects
+
+A selection of projects that demonstrate my skills in Artificial Intelligence, Computer Vision, and Software Development.
+
+### ⚡ AI-Based Electrical Fault Detection System
+
+Graduation project for intelligent electrical fault detection and prediction using Machine Learning, Python, and React.
+
+🔗 Repository  
+https://github.com/abdelrahman-ahmed03/AI-Based-Electrical-Fault-Detection-System
+
+---
+
+### 🦺 YOLO Worker Safety Detection
+
+YOLOv8-based Computer Vision project for detecting workers, helmets, and safety vests using real-time object detection.
+
+🔗 Repository  
+https://github.com/abdelrahman-ahmed03/YOLO-Worker-Safety-Detection
+
+---
+
+### 🏋️ GymPro Management System
+
+Desktop application for gym management developed using Python, Tkinter, and SQLite.
+
+🔗 Repository  
+https://github.com/abdelrahman-ahmed03/GymPro-Management-System
+
+---
+
+# Programming Languages
 
 <p align="center">
 
@@ -47,7 +72,7 @@ Passionate about building intelligent AI solutions using Machine Learning, Compu
 
 ---
 
-# 🛠️ Technologies & Tools
+# Technologies & Tools
 
 <p align="center">
 
@@ -57,7 +82,7 @@ Passionate about building intelligent AI solutions using Machine Learning, Compu
 
 ---
 
-# 📚 AI & Data Science
+# AI & Data Science
 
 - Machine Learning
 - Deep Learning
@@ -75,64 +100,26 @@ Passionate about building intelligent AI solutions using Machine Learning, Compu
 
 ---
 
-# 🚀 Featured Projects
+# Certifications
 
-### ⚡ AI-Based Electrical Fault Detection System
+### Advanced AI Crash Course
+**Orange Digital Center Egypt**
 
-AI-powered graduation project for electrical fault detection and prediction using Machine Learning, React, and Python.
-
-🔗 **Repository**
-
-https://github.com/abdelrahman-ahmed03/AI-Based-Electrical-Fault-Detection-System
+🔗 Certificate & Post  
+https://www.linkedin.com/posts/abdelrahman-ahmed-ai_artificialintelligence-machinelearning-deeplearning-share-7436428880762265600-xhLc/
 
 ---
 
-### 🦺 YOLO Worker Safety Detection
+### AI & Data Analysis Diploma (170 Hours)
+**Instant Software Solutions**
 
-YOLOv8-based Computer Vision project for detecting workers, helmets, and safety vests using real-time object detection.
-
-🔗 **Repository**
-
-https://github.com/abdelrahman-ahmed03/YOLO-Worker-Safety-Detection
-
----
-
-### 🏋️ GymPro Management System
-
-Desktop Gym Management System developed using Python, Tkinter, and SQLite with an intuitive graphical interface.
-
-🔗 **Repository**
-
-https://github.com/abdelrahman-ahmed03/GymPro-Management-System
-
----
-
-# 📜 Certifications
-
-🏅 Advanced AI Crash Course — Orange Digital Center Egypt
-
-🏅 AI & Data Analysis Diploma (170 Hours) — Instant Software Solutions
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:badawy512x@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abdelrahman-ahmed-ai">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+🔗 Certificate & Post  
+https://www.linkedin.com/posts/abdelrahman-ahmed-ai_%D9%88%D9%82%D9%84-%D8%B1%D8%A8-%D8%B2%D8%AF%D9%86%D9%8A-%D8%B9%D9%84%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D9%85%D8%AF-%D9%84%D9%84%D9%87-share-7428920912449564672-u8Cx/
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile.
 
 </p>
